@@ -1,3 +1,5 @@
+//Must be .tsx
+
 // schemas/blockContent.tsx
 import React from 'react'
 import {defineType, defineArrayMember} from 'sanity'
@@ -51,3 +53,4 @@ export default defineType({
     // other block children if needed
   ],
 })
+
