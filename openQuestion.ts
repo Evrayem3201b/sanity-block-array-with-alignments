@@ -21,7 +21,7 @@ export default {
     {
       name: 'answer',
       title: 'Answer',
-      type: 'blockContent', // ✅ now supports alignment
+      type: 'blockContent', // ✅ now supports alignment you must pass it as a string here
     },
     {
       name: 'updatedAt',
@@ -35,3 +35,4 @@ export default {
     },
   ],
 }
+
